@@ -9,7 +9,7 @@
    </h1>
    
    <!-- GIF DE FUNDO MACABRO -->
-   <img src="https://i.pinimg.com/736x/1a/43/6c/1a436cf07b613f9e79e7e81faa11cc1b.jpg" width="300" style="border-radius: 15px; border: 2px solid #8B0000; box-shadow: 0 0 20px #8B0000;" />
+   <img src="https://ibb.co/v6rn3K2X" width="300" style="border-radius: 15px; border: 2px solid #8B0000; box-shadow: 0 0 20px #8B0000;" />
    
    <!-- SEPARADOR DE SANGUE -->
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" style="opacity: 0.5; margin: 20px 0;" />
