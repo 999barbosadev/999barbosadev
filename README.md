@@ -1,7 +1,7 @@
 <div align="center">
    
    <!-- ANIMAÇÃO DE SANGUE NO TOPO -->
-   <img src="https://media.tenor.com/WACz3O06QtUAAAAj/blood-transparent.gif" width="100%" style="filter: hue-rotate(270deg) brightness(1.2);" />
+   <img src="https://i.pinimg.com/originals/26/6f/40/266f40f6303758522c84c2515f2d5c5b.gif" width="100%" style="filter: hue-rotate(270deg) brightness(1.2);" />
    
    <!-- TÍTULO COM EFEITO SANGRENTO -->
    <h1 align="center">
