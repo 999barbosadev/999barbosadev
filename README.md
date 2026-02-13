@@ -1,7 +1,7 @@
 <div align="center">
    
    <!-- ANIMAÇÃO DE SANGUE NO TOPO -->
-   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" style="filter: hue-rotate(270deg) brightness(1.2);" />
+   <img src="https://media.tenor.com/WACz3O06QtUAAAAj/blood-transparent.gif" width="100%" style="filter: hue-rotate(270deg) brightness(1.2);" />
    
    <!-- TÍTULO COM EFEITO SANGRENTO -->
    <h1 align="center">
