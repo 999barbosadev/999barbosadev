@@ -1,7 +1,7 @@
 <div align="center">
    
    <!-- ANIMAÇÃO DE SANGUE NO TOPO -->
-   <img src="https://i.pinimg.com/originals/26/6f/40/266f40f6303758522c84c2515f2d5c5b.gif" width="100%" style="filter: hue-rotate(270deg) brightness(1.2);" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=180&section=header&text=SYSTEM%20ONLINE&fontColor=ff0000&fontSize=40&animation=fadeIn" width="100%" style="filter: hue-rotate(270deg) brightness(1.2);" />
    
    <!-- TÍTULO COM EFEITO SANGRENTO -->
    <h1 align="center">
