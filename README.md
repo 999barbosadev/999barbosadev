@@ -18,7 +18,7 @@
 
 <!-- IMAGEM GRANDE -->
 <p align="center">
-   <img src="https://i.pinimg.com/736x/1a/43/6c/1a436cf07b613f9e79e7e81faa11cc1b.jpg" width="800" style="border-radius: 10px; border: 3px solid #8B0000; filter: drop-shadow(0 0 20px #8B0000);" />
+   <img src="https://i.ibb.co/6c7v0vST/b0dc435753a099bfc3819b4a1ba062b5-removebg-preview.png" width="800" style="border-radius: 10px; border: 3px solid #8B0000; filter: drop-shadow(0 0 20px #8B0000);" />
 </p>
 
 <!-- IMAGEM PEQUENA -->
