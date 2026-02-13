@@ -28,7 +28,7 @@
 
 <!-- LINHA DE SANGUE -->
 <div align="center">
-   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/red.png" width="100%" style="opacity: 0.8; margin: 30px 0;" />
+   <img src="https://img1.picmix.com/output/stamp/normal/4/8/7/4/1364784_20cc7.gif" width="100%" style="opacity: 0.8; margin: 30px 0;" />
 </div>
 
 <!-- ICONES DAS LINGUAGENS COM EFEITO DE SANGUE -->
