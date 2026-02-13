@@ -1,16 +1,24 @@
-## Hi there 👋
+<!-- ========================================= -->
+<!--        SYSTEM INITIALIZATION: OK          -->
+<!--        ACCESS LEVEL: RESTRICTED           -->
+<!-- ========================================= -->
 
-<!--
-**999barbosadev/999barbosadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">☠️ SOFTWARE ENGINEER ☠️</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>"Code is not written. It is summoned."</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=8B0000&center=true&vCenter=true&lines=Backend+Engineer;Automation+Architect;Code+Without+Mercy;Welcome+to+the+Abyss" />
+</p>
+
+---
+
+## 🧠 PROFILE
+
+```txt
+ROLE        : Software Developer
+STATUS      : Active
+ENVIRONMENT : Backend / Automation / Web
+MINDSET     : Cold. Precise. Efficient.
