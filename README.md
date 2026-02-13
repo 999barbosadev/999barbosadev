@@ -26,12 +26,11 @@
    <img src="https://i.ibb.co/qYSxTbmM/25feac6544641151cdcd108fead0e0d1-removebg-preview.png" width="300" style="border-radius: 50%; border: 3px solid #8B0000; filter: drop-shadow(0 0 15px #8B0000);" />
 </p>
 
-<!-- LINHA DE SANGUE -->
+
 <div align="center">
    <img src="https://img1.picmix.com/output/stamp/normal/4/8/7/4/1364784_20cc7.gif" width="100%" style="opacity: 0.8; margin: 30px 0;" />
 </div>
 
-<!-- ICONES DAS LINGUAGENS COM EFEITO DE SANGUE -->
 <h2 align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=1500&pause=500&color=FF0000&center=true&vCenter=true&repeat=true&width=300&height=50&lines=BOSADEV;PHP;HTML;CSS;JAVASCRIPT;C#;PYTHON;HTML;N8N;" alt="Typing SVG" />
 </h2>
@@ -55,4 +54,10 @@
    
 </div>
 
-<!-- ANIMAÇÃO DE GOTAS DE SANGUE -->
+<br>
+<br>
+<h5 align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=1500&pause=500&color=FF0000&center=true&vCenter=true&repeat=true&width=300&height=50&lines=FIM;BYE;I;LOVE;JESUS;" alt="Typing SVG" />
+</h5>
+
+
