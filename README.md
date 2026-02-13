@@ -33,7 +33,7 @@
 
 <!-- ICONES DAS LINGUAGENS COM EFEITO DE SANGUE -->
 <h2 align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=1500&pause=500&color=FF0000&center=true&vCenter=true&repeat=true&width=300&height=50&lines=TECNOLOGIAS;LINGUAGENS;CONHECIMENTOS" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=1500&pause=500&color=FF0000&center=true&vCenter=true&repeat=true&width=300&height=50&lines=BOSADEV;PHP;HTML;CSS;JAVASCRIPT;C#;PYTHON;HTML;N8N;" alt="Typing SVG" />
 </h2>
 
 <div align="center" style="display: inline_block; padding: 20px; background: linear-gradient(145deg, #1a0000 0%, #000000 100%); border-radius: 15px; border: 2px solid #8B0000; margin: 20px;">
