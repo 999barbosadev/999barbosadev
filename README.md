@@ -8,7 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=180&section=header&text=SYSTEM%20ONLINE&fontColor=ff0000&fontSize=40&animation=fadeIn" />
 </p>
 
-<h1 align="center">☠️ SOFTWARE ENGINEER ☠️</h1>
+<h1 align="center"><img src="https://i.pinimg.com/originals/a6/e2/3b/a6e23bc8c9c862538a7f31dc2f651d98.gif" width="30">Programmer<img src="https://i.pinimg.com/originals/a6/e2/3b/a6e23bc8c9c862538a7f31dc2f651d98.gif" width="30"></h1>
 
 <p align="center">
   <i>"Code is not written. It is summoned."</i>
