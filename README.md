@@ -1,9 +1,9 @@
 <div align="center">
    
-   <!-- ANIMAÇÃO DE SANGUE NO TOPO -->
+   
    <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=180&section=header&text=SYSTEM%20ONLINE&fontColor=ff0000&fontSize=40&animation=fadeIn" width="100%" style="filter: hue-rotate(270deg) brightness(1.2);" />
    
-   <!-- TÍTULO COM EFEITO SANGRENTO -->
+  
    <h1 align="center">
      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=600&height=80&lines=DEV+BACK-END;DEV+FRONT-END;%3E+999BARBOSADEV+%3C" alt="Typing SVG" />
    </h1>
