@@ -23,7 +23,7 @@
 
 <!-- IMAGEM PEQUENA -->
 <p align="center">
-   <img src="https://media.giphy.com/media/l4FGuh5J36jVfH7lu/giphy.gif" width="300" style="border-radius: 50%; border: 3px solid #8B0000; filter: drop-shadow(0 0 15px #8B0000);" />
+   <img src="https://i.pinimg.com/1200x/25/fe/ac/25feac6544641151cdcd108fead0e0d1.jpg" width="300" style="border-radius: 50%; border: 3px solid #8B0000; filter: drop-shadow(0 0 15px #8B0000);" />
 </p>
 
 <!-- LINHA DE SANGUE -->
