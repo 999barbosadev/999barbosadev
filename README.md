@@ -60,4 +60,9 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=1500&pause=500&color=FF0000&center=true&vCenter=true&repeat=true&width=300&height=50&lines=FIM;BYE;I;LOVE;JESUS;" alt="Typing SVG" />
 </h5>
 
+<br>
+> [!note]
+> **All information and code provided on this profile are for `educational purposes only`.** <br>
+> **The creator is not responsible for any direct or indirect damage resulting from misuse of this material.** <br>
+> **Whatever you choose to do is entirely at `your own risk and responsibility`.**
 
