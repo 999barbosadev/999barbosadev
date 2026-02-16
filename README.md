@@ -8,18 +8,15 @@
      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=600&height=80&lines=DEV+BACK-END;DEV+FRONT-END;%3E+999BARBOSADEV+%3C" alt="Typing SVG" />
    </h1>
    
-   <!-- GIF DE FUNDO MACABRO -->
+   
    <img src="https://i.ibb.co/8LRZrSFY/Chat-GPT-Image-13-de-fev-de-2026-18-22-23.png" width="300" style="border-radius: 15px; border: 2px solid #8B0000; box-shadow: 0 0 20px #8B0000;" />
    
-   <!-- SEPARADOR DE SANGUE -->
+ 
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" style="opacity: 0.5; margin: 20px 0;" />
    
 </div>
 
-<!-- IMAGEM GRANDE -->
-<p align="center">
-   <img src="https://i.ibb.co/PvcF0wDk/e0669dd4b57a6382d905638a5bbf4d81-removebg-preview.png" width="800" style="border-radius: 10px; border: 3px solid #8B0000; filter: drop-shadow(0 0 20px #8B0000);" />
-</p>
+
 
 <!-- IMAGEM PEQUENA -->
 <p align="center">
