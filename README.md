@@ -51,10 +51,10 @@
    
 </div>
 
-<!-- ESTATÍSTICAS EM PRETO E BRANCO -->
+<!-- ESTATÍSTICAS -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=999barbosadev&show_icons=true&theme=dark&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=999barbosadev&layout=compact&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=999barbosadev&show_icons=true&theme=dark&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=999barbosadev&layout=compact&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true"/>
 </div>
 
 <!-- FOOTER TYPING -->
