@@ -43,11 +43,11 @@
    <!-- N8N -->
    <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white&color=000000&labelColor=333333" />
    <!-- CSS3 -->
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=000000&labelColor=333333" />
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white&color=000000&labelColor=333333" />
    <!-- JAVASCRIPT -->
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=000000&labelColor=333333" />
    <!-- C# -->
-   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=000000&labelColor=333333" />
+   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c#&logoColor=white&color=000000&labelColor=333333" />
    
 </div>
 
