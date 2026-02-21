@@ -23,7 +23,7 @@
 
 <!-- LINHA DIVISÓRIA GIF (PRETO E BRANCO) -->
 <div align="center">
-   <img src="https://img1.picmix.com/output/stamp/normal/4/8/7/4/1364784_20cc7.gif" width="100%" style="opacity: 0.8; filter: grayscale(100%); margin: 30px 0;" />
+   <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0446.gif" width="100%" style="opacity: 0.8; filter: grayscale(100%); margin: 30px 0;" />
 </div>
 
 <!-- TYPING SKILLS -->
@@ -53,8 +53,8 @@
 
 <!-- ESTATÍSTICAS -->
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=999barbosadev&theme=dark&background=000000&border=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=999barbosadev&layout=compact&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=999barbosadev&theme=dark&background=000000&border=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"/>
+  <img src="https://img.shields.io/github/followers/999barbosadev?style=social"/>
 </div>
 
 <!-- FOOTER TYPING -->
