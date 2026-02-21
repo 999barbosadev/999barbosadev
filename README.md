@@ -12,7 +12,7 @@
   
    
    <!-- LINHA DIVISÓRIA -->
-   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" style="opacity: 0.5; margin: 20px 0;" />
+  
    
 </div>
 
@@ -53,7 +53,7 @@
 
 <!-- ESTATÍSTICAS -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=999barbosadev&show_icons=true&theme=dark&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true"/>
+ <img src="https://streak-stats.demolab.com?user=999barbosadev&theme=dark&background=000000&border=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=999barbosadev&layout=compact&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true"/>
 </div>
 
