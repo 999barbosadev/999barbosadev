@@ -54,6 +54,7 @@
 <!-- ESTATÍSTICAS -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=999barbosadev&theme=dark&background=000000&border=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"/>
+   <br>
   <img src="https://img.shields.io/github/followers/999barbosadev?style=social"/>
 </div>
 
