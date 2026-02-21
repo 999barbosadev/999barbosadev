@@ -47,7 +47,7 @@
    <!-- JAVASCRIPT -->
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=000000&labelColor=333333" />
    <!-- C# -->
-   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c#&logoColor=white&color=000000&labelColor=333333" />
+   <img src="https://img.shields.io/badge/C%23-C%23?style=for-the-badge&logo=c%23&logoColor=white&color=000000&labelColor=000000" />
    
 </div>
 
