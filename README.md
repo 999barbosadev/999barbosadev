@@ -41,7 +41,7 @@ Experiência em desenvolvimento Back-end e Front-end, integração de APIs de pa
 ## 📊 GitHub
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=999barbosadev&theme=default"/>
+<img src="https://streak-stats.demolab.com?user=bosadevv&theme=default"/>
 </p>
 
 ---
