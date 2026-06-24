@@ -1,9 +1,5 @@
 <div align="center">
   
-```yaml
-DEV: → bosadevv
-```
-  
 *Building modern web systems, one commit at a time.*
 
 
