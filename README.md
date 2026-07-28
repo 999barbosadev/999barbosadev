@@ -10,8 +10,8 @@
 <img height="30" src="https://cdn.simpleicons.org/python/777777" />
 <img height="30" src="https://cdn.simpleicons.org/javascript/777777" />
 <img height="30" src="https://cdn.simpleicons.org/html5/777777" />
-<img height="30" src="https://cdn.simpleicons.org/css3/777777" />
-<img height="30" src="https://cdn.simpleicons.org/csharp/777777" />
+<img height="30" src="https://cdn.simpleicons.org/css/777777" />
+<img height="30" src="https://cdn.simpleicons.org/dotnet/777777" />
 <img height="30" src="https://cdn.simpleicons.org/angular/777777" />
 
 </div>
