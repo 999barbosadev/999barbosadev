@@ -1,26 +1,23 @@
 <div align="center">
-  
+
 *Building modern web systems, one commit at a time.*
 
-
+---
 
 ### SKILLS
 
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-
+<img height="30" src="https://cdn.simpleicons.org/php/777777" />
+<img height="30" src="https://cdn.simpleicons.org/python/777777" />
+<img height="30" src="https://cdn.simpleicons.org/javascript/777777" />
+<img height="30" src="https://cdn.simpleicons.org/html5/777777" />
+<img height="30" src="https://cdn.simpleicons.org/css3/777777" />
+<img height="30" src="https://cdn.simpleicons.org/csharp/777777" />
+<img height="30" src="https://cdn.simpleicons.org/angular/777777" />
 
 </div>
 
-
+---
 
 > *"Forgive others not because they deserve it — but because you deserve peace."*
-
-> I Have no Enimies. God Love *you*
-
->  Rises The Moon
+> *I have no enemies. God loves you.*
+> *Rises the Moon*
